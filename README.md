@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my bachelor's degree at Arizona State University.
+- 🌱 I’m currently learning full-stack web development.
+- 🤔 I’m looking for help with networking.
+- 📫 How to reach me: @saikadev on most socials.
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: I'm a mom.
