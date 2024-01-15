@@ -1,23 +1,27 @@
-### Hi there 👋
+### ᴏʜᴀʏᴏ̄〜 ᴍʏ ɴᴀᴍᴇ ɪs sᴀɪᴋᴀ﹗
+i am a second-year university student at arizona state university who is currently working on their bachelor's degree in graphic information technology - full-stack web development. i am also a full-time mom. i recently enrolled in the full-stack web development bootcamp with careerfoundry that is set to start on 1 april 2024. my current goal is to start my dream career and become a software engineer. ٩(〃^ヮ^〃)۶
 
-<!--
-**saikadayo/saikadayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i’m currently learning the basics.
+- [x] HTML, CSS, jQuery, Bootstrap
+- [ ] Git
+- [ ] Javascript
+- [ ] APIs
+- [ ] React.js
+- [ ] Node.js
+- [ ] MongoDB
 
-Here are some ideas to get you started:
+i’m open to・
+- networking
+- internship opportunities
+- advice
+- feedback
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-- 🔭 I’m currently working on my bachelor's degree at Arizona State University.
-- 🌱 I’m currently learning full-stack web development.
-- 🤔 I’m looking for help with networking.
-- 📫 How to reach me: @saikadev on most socials.
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: I'm a mom.
+
+
+
+
+
+
+> [!NOTE]
+> although this page is under construction, some of the text on this page may be written in all lowercase intentionally for stylistic purposes. i apologize for any inconvenience this may cause. (ෆ˙ᵕ˙ෆ)♡
