@@ -1,5 +1,5 @@
 ### ᴏʜᴀʏᴏ̄〜 ᴍʏ ɴᴀᴍᴇ ɪs sᴀɪᴋᴀ﹗
-i am a second-year university student at arizona state university who is currently working on their bachelor's degree in graphic information technology - full-stack web development. i am also a full-time mom. i recently enrolled in the full-stack web development bootcamp with careerfoundry to continue to develop my knowledge and skills. i currently work as a junior software engineer. ٩(〃^ヮ^〃)۶
+i am a third-year university student at arizona state university who is currently working on their bachelor's degree in graphic information technology - full-stack web development. i am also a full-time mom. i recently enrolled in the full-stack web development bootcamp with careerfoundry to continue to develop my knowledge and skills. ٩(〃^ヮ^〃)۶
 
 i’m open to・
 - networking
