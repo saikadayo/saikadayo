@@ -8,9 +8,8 @@ i’m open to・
 - feedback
 
 <a href="https://www.linkedin.com/in/saikachheav/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://open.spotify.com/playlist/7kj1RLouNGEyY0ijyZ7IgL?si=00dd8ce24cea45fe" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 > [!NOTE]
 > although this page is under construction, some of the text on this page may be written in all lowercase intentionally for stylistic purposes. i apologize for any inconvenience this may cause. (ෆ˙ᵕ˙ෆ)♡
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8)
+![saika's recently played](https://spotify-recently-played-readme.vercel.app/api?user=hm18rtepxlhn5hr8yyc4ogj6s&count=3)
